@@ -10,7 +10,7 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
-
+<meta name="google-site-verification" content="uF-yOQPIQCtlVp4Qrc92mZs7852iBpNKqHZzdXaTDug" />
     steps:
     - uses: actions/checkout@v3
     - name: Build the site in the jekyll/builder container
